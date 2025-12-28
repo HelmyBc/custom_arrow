@@ -15,6 +15,10 @@ A highly customizable Flutter package for drawing beautiful arrows between widge
 🔧 **Fine-tuning** - Pixel-perfect positioning with offset controls
 🎭 **Custom Bezier Curves** - Define your own curve with control points
 
+## Preview
+
+![alt text](ScreenRecording2025-12-28at10.52.06PM-ezgif.com-crop.gif)
+
 ## Installation
 
 Add this to your package's `pubspec.yaml` file:
