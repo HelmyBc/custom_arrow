@@ -1,0 +1,17 @@
+name: custom_arrow_example
+description: Example app for custom_arrow package
+publish_to: "none"
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  custom_arrow:
+    path: ../
+
+flutter:
+  uses-material-design: true
+dev_dependencies:
+  flutter_lints: ^3.0.0
