@@ -1,5 +1,3 @@
-library custom_arrow;
-
 /// This file contains enumerations used in the custom arrow implementation.
 ///
 /// The `ArrowCurveStyle` enum defines various styles for the curvature of arrows.

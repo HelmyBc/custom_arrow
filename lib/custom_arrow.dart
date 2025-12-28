@@ -27,7 +27,7 @@
 ///   ),
 /// )
 /// ```
-library custom_arrow;
+library;
 
 export 'src/enums.dart';
 export 'src/arrow_configuration.dart';

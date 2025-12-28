@@ -1,5 +1,3 @@
-library custom_arrow;
-
 import 'package:custom_arrow/src/arrow_configuration.dart';
 import 'package:flutter/material.dart';
 import 'dart:math' as math;

@@ -1,5 +1,3 @@
-library custom_arrow;
-
 import 'package:flutter/material.dart';
 import 'enums.dart';
 

@@ -1,5 +1,3 @@
-library custom_arrow;
-
 import 'package:custom_arrow/custom_arrow.dart';
 import 'package:flutter/material.dart';
 
