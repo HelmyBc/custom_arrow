@@ -1,6 +1,6 @@
 name: custom_arrow
 description: A highly customizable Flutter package for drawing arrows between widgets with various styles, curves, and configurations.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/HelmyBc/custom_arrow
 repository: https://github.com/HelmyBc/custom_arrow
 issue_tracker: https://github.com/HelmyBc/custom_arrow/issues
