@@ -162,9 +162,9 @@ class ArrowConnector extends StatelessWidget {
 /// by their [GlobalKey]s. The connection points can be customized using fractional
 /// positions and offsets relative to each widget's size.
 ///
-/// The [startPoint] is calculated using [startXFraction], [startYFraction],
+/// The startPoint is calculated using [startXFraction], [startYFraction],
 /// [startXOffset], and [startYOffset] applied to the start widget's dimensions.
-/// Similarly, the [endPoint] is calculated using the corresponding end widget
+/// Similarly, the endPoint is calculated using the corresponding end widget
 /// positioning parameters.
 ///
 /// Parameters:

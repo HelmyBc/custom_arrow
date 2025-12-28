@@ -17,7 +17,7 @@ A highly customizable Flutter package for drawing beautiful arrows between widge
 
 ## Preview
 
-![alt text](ScreenRecording2025-12-28at10.52.06PM-ezgif.com-crop.gif)
+![alt text](preview.gif)
 
 ## Installation
 
@@ -302,7 +302,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Issues
 
-If you encounter any issues or have suggestions, please [file an issue](https://github.com/yourusername/custom_arrow/issues).
+If you encounter any issues or have suggestions, please [file an issue](https://github.com/HelmyBc/custom_arrow/issues).
 
 ## License
 
